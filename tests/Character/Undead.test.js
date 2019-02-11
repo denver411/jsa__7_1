@@ -1,4 +1,4 @@
-import Undead from './Undead';
+import Undead from '../../src/js/Character/instances/Undead';
 
 it('Создается персонаж с классом Undead и заданным именем', () => {
   const undead = new Undead('Undead');

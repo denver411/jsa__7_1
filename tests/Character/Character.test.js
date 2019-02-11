@@ -1,4 +1,4 @@
-import Character from './Character';
+import Character from '../../src/js/Character/Character';
 
 it('Создается персонаж с классом Character и заданным именем', () => {
   const character = new Character('Luntic');

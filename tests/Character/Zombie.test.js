@@ -1,4 +1,4 @@
-import Zombie from './Zombie';
+import Zombie from '../../src/js/Character/instances/Zombie';
 
 it('Создается персонаж с классом Zombie и заданным именем', () => {
   const zombie = new Zombie('Zombie');

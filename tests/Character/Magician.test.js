@@ -1,4 +1,4 @@
-import Magician from './Magician';
+import Magician from '../../src/js/Character/instances/Magician';
 
 it('Создается персонаж с классом Magician и заданным именем', () => {
   const magician = new Magician('Magician');

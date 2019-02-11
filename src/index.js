@@ -1,5 +1,5 @@
 import Character from './js/Character/Character';
-import Bowman from './js/Bowman/Bowman';
+import Bowman from './js/Character/instances/Bowman';
 
 const character = new Character('Котик');
 const bowman = new Bowman();

@@ -1,4 +1,4 @@
-import Swordsman from './Swordsman';
+import Swordsman from '../../src/js/Character/instances/Swordsman';
 
 it('Создается персонаж с классом Swordsman и заданным именем', () => {
   const swordsman = new Swordsman('Swordsman');
